@@ -36,8 +36,7 @@ namespace WeatherApp
             }
         }
 
-        string APIKey = "3409e9362bc4492201f2ac58685cc090";
-        //string APIKey = "23cd260e0ee898425b90f241974f6775";
+        string APIKey = "Your API Key";
         double lati;
         double longi ;
 
