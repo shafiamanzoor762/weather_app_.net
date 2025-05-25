@@ -127,7 +127,7 @@ string url = $"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={a
 <h2 id="project-structure">📁 Project Structure</h2>
 
 ```
-weathering/
+WeatherAppSourceCode/
 ├── WeatherApp.sln
 ├── Weather.cs        # Main Windows Form
 ├── Models/
