@@ -119,10 +119,10 @@ string url = $"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={a
 ```
 weathering/
 ├── WeatherApp.sln
-├── WeatherForm.cs        # Main Windows Form
-├── WeatherService.cs     # API service integration logic
+├── Weather.cs        # Main Windows Form
 ├── Models/
-│   └── WeatherModel.cs   # Deserialization model for JSON response
+│   ├── WeatherInfo.cs   # Deserialization model for Current Weather JSON response
+│   └── WeatherForcast.cs   # Deserialization model for Forcast Weather JSON response
 ├── Resources/
 │   └── weather_icons/    # Weather condition icons
 ├── App.config            # Optional: API key or settings
