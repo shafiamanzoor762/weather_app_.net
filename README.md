@@ -46,7 +46,7 @@ Weathering is a lightweight and intuitive desktop weather application built usin
 
 <h2 id="screenshots">📸 Screenshots</h2>
 
-![Main Dashboard Screenshot](https://via.placeholder.com/600x300.png?text=Weather+App+Screenshot)
+Comming Soon...
 
 ---
 
