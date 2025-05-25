@@ -168,7 +168,7 @@ See [`LICENSE`](LICENSE) for more details.
 
 ---
 
-<h2 id="acknowledgments">🙏 Acknowledgments</h2>
+<h2 id="acknowledgments">📚 Acknowledgments</h2>
 
 * [OpenWeatherMap API](https://openweathermap.org)
 * Microsoft .NET Framework
